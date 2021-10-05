@@ -1,0 +1,36 @@
+
+.menu-area{
+    background: #FFFFFF !important;
+}
+
+.img-logo{
+    max-height: 50px;
+    margin-top: 15px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.list-item{
+    display: flex;
+    flex-direction: row;
+}
+.ul-wrap{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.li-wrap{
+    margin-right: 59px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #101010;
+    font-family: "PoppinsSemiBold";
+    font-size: 24px;
+}
+.li-wrap:hover{
+    cursor: pointer;
+    color: #116eeb;
+    /* font-family: fantasy; */
+}

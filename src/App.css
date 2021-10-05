@@ -6,12 +6,21 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 0px 15px;
+  margin-top: 10px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
+/* *{
+  max-width: 1750px;
+  width: 100%;
+} */
 
 .App-header {
   background-color: #282c34;
