@@ -3,6 +3,7 @@ import About from './Components/pages/About/About';
 import Banner from './Components/pages/Banner/Banner';
 import Elementor from './Components/pages/Elementor/Elementor';
 import Navbar from './Components/pages/Navabr/Navbar';
+import Services from './Components/pages/Services/Services';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Banner />
       <Elementor />
       <About />
+      <Services />
     </div>
   );
 }

@@ -1,16 +1,13 @@
 .about-wrap {
   background-image: url("../About/ia_200000417.jpg");
   height: 700px;
-  /* width: 1484px; */
   background-repeat: no-repeat;
   background-size: auto;
-  /* background-size: 72% 106%; */
   text-align: center;
   align-items: center;
   background-size: contain, cover;
 }
 .about-wrap-head {
-  /* text-align: left; */
   color: #116eeb;
   display: flex;
   justify-content: space-evenly;

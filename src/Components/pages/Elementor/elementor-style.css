@@ -35,15 +35,17 @@
     color: #116eeb;
 }
 .main-wrapper{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  flex-direction: row;
 }
 .first-wrap{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     height: 350px;
+    margin-right: 24px;
 }
 .main-wrap-box{
     background: linear-gradient(
