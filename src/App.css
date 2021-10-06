@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.icon-uni{
+  color: #2196f3;
+}
 .container {
   width: 100%;
   margin: 0 auto;

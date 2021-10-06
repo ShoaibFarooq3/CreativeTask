@@ -1,0 +1,73 @@
+.progress-bar {
+  width: 40%;
+  background-color: #ddd;
+}
+.skills {
+  text-align: right;
+  padding-top: 0.011px;
+  padding-bottom: 0.01px;
+  color: white;
+}
+.main-wrap-brain {
+    margin-bottom: 50px;
+    display: flex;
+    background-color: #EFF4F7;
+    justify-content: space-between;
+}
+.right-side-wrap{
+    width: 50%;
+}
+.html {
+  width: 90%;
+  background-color: #2196f3;
+}
+.css {
+  width: 85%;
+  background-color: #2196f3;
+}
+.js {
+  width: 95%;
+  background-color: #2196f3;
+}
+.left-side-h1 {
+  color: #116eeb;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-family: poppins, sans-serif;
+}
+.title-brain-inner {
+  color: #1c1b1b;
+  font-family: poppins, sans-serif;
+  font-weight: 700;
+}
+.btn-brain-left{
+    background-color: #2196f3;
+    width: 133px;
+    height: 62px;
+    border: 1px solid;
+    border-radius: 9px;
+    color: white;
+    font-size: 18px;
+}
+.brain-main-wrap{
+  height: 500px;
+}
+.btn-brain-left:hover{
+    cursor: pointer;
+    background-color:#439de7 ;
+}
+.progress-bar-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  text-align: left;
+  width: 250%;
+}
+.left-side-wrap {
+  text-align: left;
+  margin-left: 10px;
+}
+.img-right-side-height{
+    height: 517px;
+    width: 100%;
+}
