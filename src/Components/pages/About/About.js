@@ -21,7 +21,7 @@ const About = () => {
                             <img  src=" ./images/ia_200000012.png" alt="img"    />
                         </div>
                         <div className="text-font-right">
-                            <h3> <b>The ability to identify market-entry </b></h3>
+                            <h3> The ability to identify market-entry </h3>
                             <p>Neque porro quisquam est, qui dolorem ipsum quia
                                 <br /> dolor sit amet eius modi tempora data. <br /><br /></p>
                         </div>
@@ -31,7 +31,7 @@ const About = () => {
                             <img  src=" ./images/ia_200000013.png" alt="img"    />
                         </div>
                         <div className="text-font-right">
-                            <h3> <b>Ensure to increase of expected sales </b></h3>
+                            <h3> Ensure to increase of expected sales </h3>
                             <p>Find remarkable ideas is that this text has been the
                                 <br />industry's standard ever in business.</p>
                         </div>

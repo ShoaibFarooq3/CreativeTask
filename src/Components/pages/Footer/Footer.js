@@ -30,7 +30,7 @@ const Footer = () => {
                                 pain and trouble that are bound.<br /><br />
                             </p>
                             <p className="footer-btn-div">
-                                <a className="btn-footer-left">Discover More</a>
+                                <a href="/home" className="btn-footer-left">Discover More</a>
                             </p>
                         </div>
                     </div>
@@ -57,7 +57,8 @@ const Footer = () => {
                         </div>
                         <div className="first-text-div">
                             <div>
-                                <img src="./images/ia_200000120.jpg" 
+                                <img src="./images/ia_200000120.jpg"
+                                    alt="logo"
                                     className="img-foot"
                                 >
                                 </img>
@@ -70,7 +71,8 @@ const Footer = () => {
 
                         <div className="first-text-div">
                             <div>
-                                <img src="./images/ia_200000121.jpg" 
+                                <img src="./images/ia_200000121.jpg"
+                                    alt="logo"
                                     className="img-foot"
                                 >
                                 </img>
@@ -82,7 +84,8 @@ const Footer = () => {
                         </div>
                         <div className="first-text-div">
                             <div>
-                                <img src="./images/ia_200000122.jpg" 
+                                <img src="./images/ia_200000122.jpg"
+                                    alt="logo"
                                     className="img-foot"
                                 >
                                 </img>
@@ -97,10 +100,10 @@ const Footer = () => {
                 <hr />
 
                 <div className="copyright-footer">
-                © Copyright 2021 Reobiz. All Rights Reserved.
+                    © Copyright 2021 Iplex. All Rights Reserved.
                 </div>
             </div>
-           
+
         </div>
     )
 }

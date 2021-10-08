@@ -5,7 +5,9 @@
 
 .img-logo{
     max-height: 50px;
-    margin-top: 15px;
+    /* margin-top: 15px;
+     */
+     align-items: center;
 }
 .navbar{
     display: flex;
@@ -23,11 +25,11 @@
 }
 .li-wrap{
     margin-right: 59px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 17px;
+    /* padding-bottom: 10px; */
     color: #101010;
-    font-family: "PoppinsSemiBold";
-    font-size: 24px;
+    font-family: "PoppinsRegular";
+    font-size: 17px;
 }
 .li-wrap:hover{
     cursor: pointer;

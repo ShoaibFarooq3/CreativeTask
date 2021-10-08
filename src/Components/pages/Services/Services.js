@@ -7,9 +7,6 @@ const WebDesign = ["/images/ia_200000014.png", "/images/ia_200000015.png", "/ima
     "/images/ia_200000017.png", "/images/ia_200000018.png", "/images/ia_200000019.png",
     "/images/ia_200000020.png", "/images/ia_200000021.png"];
 
-// const ServiceName = ["Business Analysis", "Reports Analysis", "Profit Planning", "Project Reporting",
-//     "Estate Planning", "Security Enhanced", "Cloud Computing", "Cryptocurrency"];
-
 const Services = () => {
     return (
         <div className="container">
@@ -41,7 +38,6 @@ const Services = () => {
                     </div>
                 </div>
             </div>
-
         </div>
     )
 }

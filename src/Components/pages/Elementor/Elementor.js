@@ -30,7 +30,7 @@ const Elementor = () => {
                             />
                         </div>
                         <div>
-                            <h3 className="heading-text">Customer Oriented</h3><br />
+                            <h4 className="heading-text">Customer Oriented</h4><br />
                             <p>We always provide people a <br />complete  solution focused of<br /> any business.</p>
                         </div>
                     </div>

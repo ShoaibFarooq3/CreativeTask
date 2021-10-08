@@ -1,6 +1,6 @@
 .about-wrap {
   background-image: url("../About/ia_200000417.jpg");
-  height: 700px;
+  height: 584px;
   background-repeat: no-repeat;
   background-size: auto;
   text-align: center;
@@ -11,21 +11,20 @@
   color: #116eeb;
   display: flex;
   justify-content: space-evenly;
-  margin-left: 325px;
-  margin-top: 70px;
+  margin-left: 100px;
+  
 }
 .about-wrap-head h3 {
-  margin-top: 110px;
+  margin-top: 30px;
 }
 .p-bold {
     font-size: 36px;
-    justify-content: end;
+    justify-content: flex-end;
     display: flex;
     text-align: left;
     margin-right: 143px;
-    /* font-family: poppins,sans-serif; */
     color: #1c1b1b;
-    font-family: poppins,sans-serif;
+    font-family: "PoppinsSemiBold";
     font-weight: 700;
     position: relative;
     margin-bottom: 50px;
